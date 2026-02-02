@@ -1,0 +1,14 @@
+{
+  "scopeName": "source.wsis",
+  "patterns": [
+    {
+      "name": "keyword.control.wsis",
+      "match": "\\b(if|else|while|install|remove)\\b"
+    },
+    {
+      "name": "string.quoted.double.wsis",
+      "begin": "\"",
+      "end": "\""
+    }
+  ]
+}
