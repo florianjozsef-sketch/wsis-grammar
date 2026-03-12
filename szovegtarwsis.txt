@@ -1,0 +1,18 @@
+inputszedcr	Modulok beszedése/importálása a rendszerbe.
+printlpcout	Alapvető kiírató modul (konzolra vagy fájlba).
+argvmentsys	Adatbekérő modul (Input).
+osszargvsysq	Matematikai és számítási motor (Kalkulátor).
+pytkcre 	Grafikus ablakkezelő modul (GUI).
+opersystpywo	Operációs rendszer szintű parancsok (OS).
+wsysserop	Rendszer parancsok futtatása (Csak ' idézőjellel).
+openmanagr	Meglévő fájlok megnyitása.
+newfmanger	Teljesen új fájlok létrehozása.
+mgmrtkeybmoorweb	Egér, billentyűzet és webes irányítás (or logikával).
+pylisterinPs	Powershell alapú fájl- és mappalistázó
+haifdr  	Ha feltétel (If).
+haelseifnem	Különben ha feltétel (Elif).
+elsenem 	Különben (Else).
+vegteloopwhtr	Végtelen ciklus (While True).
+Pyretvissz	Visszatérési érték (Return).
+SectionEnd	A függvény/szekció végleges lezárása (gyakran: as SectionEnd).
+define  	Új függvény vagy folyamat létrehozása.
