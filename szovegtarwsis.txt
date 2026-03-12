@@ -16,3 +16,4 @@ vegteloopwhtr	Végtelen ciklus (While True).
 Pyretvissz	Visszatérési érték (Return).
 SectionEnd	A függvény/szekció végleges lezárása (gyakran: as SectionEnd).
 define  	Új függvény vagy folyamat létrehozása.
+varwaitforsyncq   várni (másodpercet)
